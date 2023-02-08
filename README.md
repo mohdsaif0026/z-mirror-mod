@@ -2,6 +2,8 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 
 # Available features in this REPO:
 
+tast pull request 
+
 ### Aria2c
 - Select files from Torrent before and while downloading
 - Seed torrents to specific ratio and time
